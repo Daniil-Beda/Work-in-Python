@@ -1,4 +1,4 @@
-#Аэропорты
+# Аэропорты
 В работе используются библиотеки pandas, matplotlib, plotly (построение географической карты).
 
 Берем датасеты здесь https://openflights.org/data.html (аэропорты airports.dat и маршрутная сеть routes.dat)
